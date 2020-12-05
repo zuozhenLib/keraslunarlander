@@ -21,3 +21,5 @@ run _newdqnlander.py_ to train your own model
 Maybe changing hyper parameters and network structure help to improve . Sometimes I feel it is just like randomly guess.
 
 Here using standard scaler may cause the performance not stable, because every time you run the code the scaler is different.This problem can be solved by save the scaler which was used during training.
+
+The video shows the agent running ,the **train.png** indicates the training process.
