@@ -4,7 +4,7 @@ Created on Sat Dec  5 18:27:49 2020
 
 @author: 77433
 """
-from newdqnlander1 import Agent
+from newdqnlander import Agent
 
 import gym
 
